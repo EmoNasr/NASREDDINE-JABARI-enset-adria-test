@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/EurekaDescovery-service/EurekaDescovery-service.iml" filepath="$PROJECT_DIR$/EurekaDescovery-service/EurekaDescovery-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gateway-service/Gateway-service.iml" filepath="$PROJECT_DIR$/Gateway-service/Gateway-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/NASREDDINE-JABARI-enset-adria-test.iml" filepath="$PROJECT_DIR$/.idea/NASREDDINE-JABARI-enset-adria-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo/transfer-service.iml" filepath="$PROJECT_DIR$/demo/transfer-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/transfer-service/transfer-service (1).iml" filepath="$PROJECT_DIR$/transfer-service/transfer-service (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/wallet-service/wallet-service.iml" filepath="$PROJECT_DIR$/wallet-service/wallet-service.iml" />
     </modules>

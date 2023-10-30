@@ -62,8 +62,8 @@ Développez un frontend web simple pour l'application. Ce frontend devrait être
 
 ## 8. Sécurité de l'application
 
-Assurez-vous de mettre en place des mesures de sécurité pour protéger l'application. Cela peut inclure l'authentification des utilisateurs, l'autorisation des requêtes, la gestion des sessions, la sécurisation des communications entre les services, etc.
+Les mesures de sécurité pour protéger l'application. Cela peut inclure l'authentification des utilisateurs, l'autorisation des requêtes, la gestion des sessions, la sécurisation des communications entre les services.
 
----
 
-N'oubliez pas de documenter votre code, d'ajouter des commentaires et d'inclure des informations sur l'installation, la configuration et le déploiement de chaque micro-service. Ce fichier README doit servir de guide pour le développement, le test et le déploiement de votre application financière basée sur des micro-services.
+*** All services are running ***
+![Alt text](<Screenshot 2023-10-30 103219Final.png>)
