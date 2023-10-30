@@ -33,7 +33,7 @@ Le service de passerelle (Gateway Service) est un point d'entrée pour l'applica
 
 ## 4. Micro-service Config-Service
 
-Le service de configuration (Config Service) permet de centraliser la configuration de l'ensemble de l'application. Il utilise généralement Spring Cloud Config ou une solution similaire. Vous devez développer et tester ce service.
+
 
 ## 5. Micro-service Wallet-Service
 
