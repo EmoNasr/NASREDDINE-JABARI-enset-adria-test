@@ -55,6 +55,7 @@ Le service de transfert (Transfer Service) gère les opérations de transfert d'
 ![Alt text](<Screenshot 2023-10-30 095127tr.png>)
 
 ![Alt text](<Screenshot 2023-10-30 101908transTes.png>)
+![Alt text](<Screenshot 2023-10-30 103913re.png>)
 
 ## 7. Frontend Web
 
